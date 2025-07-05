@@ -1,5 +1,5 @@
 /**********************************************************************************
- *  TITLE: ESP32CAM Telegram WiFi Door Lock with photo capture
+ *  TITLE: ESP32CAM photo capture teligram Ws
  *  this code belongs to circuit seekers .cc
 
  **********************************************************************************/
